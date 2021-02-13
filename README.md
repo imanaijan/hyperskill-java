@@ -1,1 +1,1 @@
-# First steps in java
+# First steps in java with hyperskill
